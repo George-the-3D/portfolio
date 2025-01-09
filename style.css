@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+
+.link-header{
+    text-decoration: none;
+    box-shadow: 3px 5px 10px 0 #ECE852;
+    background-color: #FB4141;
+    color: white;
+    padding: 10px 5px 10px 5px;
+}
+header{
+    margin-bottom: 30px;
+}
+
+nav{
+    background-color: #5CB338;
+    padding: 10px 5px 10px 5px;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+}
